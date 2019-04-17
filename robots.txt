@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyieshaes.realorfake3d.com/sitemap.xml
